@@ -34,7 +34,7 @@ Para la edición usamos los bloques del wordpress, puede ser útil el de espacia
 
 Cuando tengamos el post listo, habremos de incorporar referencias que sostengan los datos proporcionados, y que se dispondrán al final de la entrada. Podremos poner referencias usando corchetes rodeando al número y poniendo como enlace la sección de fuentes, con un enlace "#fuentes" y añadiendo en el bloque de párrafo de fuentes el anclaje dentro de la pestaña "Avanzado".
 
-Antes de terminar, nos aseguramos que a la derecha en 'Entrada' pone que estamos usando la plantilla por defecto y que el formato es estándar. Abajo, en categorías, debemos añadir la categoría apropiada para el objeto. Las categorías son bastante generales por lo que una vez llevemos unos cuantos objetos es improbable que haga falta crear una nueva. Si tienes alguna duda sobre la categoría puedes preguntar en el Discord. Las etiquetas no las estamos usando ahora mismo.
+Antes de terminar, nos aseguramos que a la derecha en 'Entrada' pone que estamos usando la plantilla por defecto y que el formato es estándar. Abajo, en categorías, debemos añadir la categoría apropiada para el objeto. Las categorías son bastante generales por lo que una vez llevemos unos cuantos objetos es improbable que haga falta crear una nueva. Si tienes alguna duda sobre la categoría puedes preguntar en el Discord. Las etiquetas no las estamos usando. Justo debajo pone vitrinas, elige la vitrina que corresponda al elemento documentado.
 
 Finalmente, dale al botón de arriba a la derecha para mandar a revisión, y en la web de MuseoMan edita el objeto para añadir las correspondientes categorías y manda el objeto a revisión. Para esto necesitarás añadir la URL del post recién generado.
 
