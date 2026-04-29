@@ -26,7 +26,7 @@ Porque mola.
 
 ## ¿Existe alguna guía para crear mi primer post en el museo?
 
-[Sí.](/eventos/2026/guia-colaboración-lima-museo-eps/)
+[Sí.](/eventos/2026/guía-colaboración-lima-museo-eps/)
 
 [← volver al inicio](/) \
 [← volver a eventos](/eventos)
