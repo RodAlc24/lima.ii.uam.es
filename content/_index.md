@@ -35,7 +35,7 @@ Lista de enlaces:
 
 ## Servicios y proyectos activos de la asociación
 
-- [Museo Tecnológico EPS-UAM](/museo-eps)
+- [Museo Tecnológico EPS-UAM](/eventos/2026/colaboración-lima-museo-eps)
 - [Mirror de ArchLinux](/eventos/2025/mirror-archlinux)
 
 [Lista completa de eventos pasados →](/eventos)
